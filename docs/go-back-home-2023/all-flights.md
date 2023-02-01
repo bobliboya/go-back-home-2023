@@ -1,5 +1,5 @@
 ---
-nav_order: 6
+nav_order: 2
 title: 疫情前中美航班表
 layout: default
 parent: 航班信息
