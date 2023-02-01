@@ -2,9 +2,9 @@
 nav_order: 4
 title: 2023年中美航班表[实时更新]
 layout: default
+parent: 航班信息
 ---
 # 2023年中美航班表 [实时更新]
-
 {: .no_toc }
 
 <details open markdown="block">
@@ -37,6 +37,7 @@ layout: default
 | 上海浦东 PVG   | 纽约肯尼迪 JFK | MU587  | B777 | 2    |
 
 [访问东航官网](https://www.ceair.com){:target="_blank"}{: .btn .btn-blue }
+
 ## 🇨🇳 南航 (China Southern) CZ
 
 | 从             | 至             | 航班号 | 机型 | 班期 |
@@ -56,6 +57,7 @@ layout: default
 | 厦门 XMN   | 洛杉矶 LAX | MF829  | B787 | 3/7  |
 
 [访问厦航官网](https://www.xiamenair.com){:target="_blank"}{: .btn .btn-blue }
+
 ## 🇺🇸 美联航 (United Airlines) UA
 
 | 从           | 至           | 航班号 | 机型 | 班期    |
