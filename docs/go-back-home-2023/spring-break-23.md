@@ -1,6 +1,6 @@
 ---
 nav_order: 3
-title: 2023年中美航班表[实时更新]
+title: 2023年春假回国时间线
 layout: default
 parent: 航班信息
 ---
