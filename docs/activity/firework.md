@@ -16,7 +16,7 @@ parent: 活动
 >
 > The federal regulations ban M-80s, cherry bombs, and a large group of all fireworks, with states along with cities free to ban what’s left.
 >
-> [Fireworks Regulation Act of Illinois](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1634&ChapterID=38){:target=&#34;_blank&#34;}{: .btn .btn-blue }
+> [Fireworks Regulation Act of Illinois](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1634&ChapterID=38){:target="_blank"}{: .btn .btn-blue }
 
 ## 背景
 
@@ -36,11 +36,11 @@ parent: 活动
 
 > **Shelton Fireworks**
 >
-> 地址：[197 S Stringtown Rd, Covington, IN 47932](https://goo.gl/maps/Xb2JV1G5RcpDJvyU6){:target=&#34;_blank&#34;}
+> 地址：[197 S Stringtown Rd, Covington, IN 47932](https://goo.gl/maps/Xb2JV1G5RcpDJvyU6){:target="_blank"}
 >
 > 电话：+1 (765)793-8111
 >
-> 网站：[http://www.sheltonfireworks.com/](http://www.sheltonfireworks.com/){:target=&#34;_blank&#34;}
+> 网站：[http://www.sheltonfireworks.com/](http://www.sheltonfireworks.com/){:target="_blank"}
 
 另外，从Shelton Fireworks的官网得知，Covington店拥有促销活动。**买满不同数额的产品可以获得不同百分比的代金券（需要当场用完）。**
 
@@ -69,11 +69,11 @@ parent: 活动
 
 > **HuHot Mongolian Grill**
 >
-> 地址：[Pavilions, 100 S Creasy Ln Suite 1240, Lafayette, IN 47905](https://goo.gl/maps/ccTMttADP5ZNLaWH8){:target=&#34;_blank&#34;}
+> 地址：[Pavilions, 100 S Creasy Ln Suite 1240, Lafayette, IN 47905](https://goo.gl/maps/ccTMttADP5ZNLaWH8){:target="_blank"}
 >
 > 电话：+1 (765)447-8903
 >
-> 网站：[https://www.huhot.com/](https://www.huhot.com/){:target=&#34;_blank&#34;}
+> 网站：[https://www.huhot.com/](https://www.huhot.com/){:target="_blank"}
 
 ## 燃放烟花
 
@@ -88,7 +88,7 @@ parent: 活动
 > * Fireworks may be used only on the user’s property, the property of someone who granted permission for fireworks to be discharged, or a place designated by the Indiana State Fire Marshal for the discharge of consumer fireworks.
 > * Fireworks may be discharged only between the hours of 9:00 a.m. to 11:00 p.m. any day except on Memorial Day, Fourth of July, Labor Day, and New Years Eve when the times are 9:00 a.m. to midnight. It is important to check with local officials, as local ordinances may restrict the use of fireworks.
 >
-> [Firework Safety at in.gov](https://www.in.gov/isp/additional-resources/helpful-information/fireworks-safety/){:target=&#34;_blank&#34;}{: .btn .btn-blue }
+> [Firework Safety at in.gov](https://www.in.gov/isp/additional-resources/helpful-information/fireworks-safety/){:target="_blank"}{: .btn .btn-blue }
 
 在吃晚饭的时候我们开始考虑在哪里放烟花比较合适，需要寻找附近住户较少的区域燃放。最后我们在Google Maps上面通过查看卫星图找到了一个位于死路尽头的地方（Linden, IN 附近）。这里地势开阔，边上都是田野（大雪覆盖），附近的住户至少有几百米远。可通过快捷编码`637G+XM2`在Google Maps上面找到这个地址。
 
